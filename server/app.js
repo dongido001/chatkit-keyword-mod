@@ -34,11 +34,10 @@ app.post("/webhook", async (req, res) => {
 });
 
 function checkData (message) {
-
+  // keywords that are not allowed on the chat
   const prohibited_keywords = [
     "fuck",
     "resist",
-    "fish",
     "hate"
   ];
 

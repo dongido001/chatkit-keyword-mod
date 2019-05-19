@@ -1,29 +1,31 @@
-# chatkit-chat-mod
+# Monitor chat rooms for prohibited language and keywords using Vue
+
+This is a demo application showing how to monitor chat rooms for prohibited language and keywords using Vue [here](https://github.com/dongido001/chatkit-keyword-mod)
 
 ## Project setup
+
+First, clone the repository:
 ```
-yarn install
+git clone https://github.com/dongido001/chatkit-keyword-mod.git
 ```
 
-### Compiles and hot-reloads for development
+Create you env file:
+
 ```
-yarn run serve
+cp .env.example .env
+```
+Update the keys in the file with your [Chatkit keys](https://pusher.com/chatkit)
+### Client - Vue
+
+```
+cd chatkit-keyword-mod
+npm install
+npm run server
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+### Server - Node
 
-### Run your tests
 ```
-yarn run test
+cd server
+node app.js
 ```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
