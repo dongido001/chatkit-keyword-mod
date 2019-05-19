@@ -1,6 +1,8 @@
 # Monitor chat rooms for prohibited language and keywords using Vue
 
-This is a demo application showing how to monitor chat rooms for prohibited language and keywords using Vue [here](https://github.com/dongido001/chatkit-keyword-mod)
+This is a demo application showing how to monitor chat rooms for prohibited language and keywords using Vue [here](https://pusher.com)
+
+![Sample working example](./screenshots/mod.gif)
 
 ## Project setup
 
