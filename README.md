@@ -11,6 +11,12 @@ First, clone the repository:
 git clone https://github.com/dongido001/chatkit-keyword-mod.git
 ```
 
+Go to the project folder:
+
+```
+cd chatkit-keyword-mod
+```
+
 Create your env file:
 
 ```
@@ -20,7 +26,6 @@ Update the keys in the file with your [Chatkit keys](https://pusher.com/chatkit)
 ### Client - Vue
 
 ```
-cd chatkit-keyword-mod
 npm install
 npm run server
 ```
