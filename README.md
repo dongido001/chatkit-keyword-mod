@@ -11,7 +11,7 @@ First, clone the repository:
 git clone https://github.com/dongido001/chatkit-keyword-mod.git
 ```
 
-Create you env file:
+Create your env file:
 
 ```
 cp .env.example .env
