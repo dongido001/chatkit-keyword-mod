@@ -1,6 +1,6 @@
 # Monitor chat rooms for prohibited language and keywords using Vue
 
-This is a demo application showing how to monitor chat rooms for prohibited language and keywords using Vue. You can read more on how this was built [here](https://pusher.com/tutorials/welcome-action-chatroom-vue)
+This is a demo application showing how to monitor chat rooms for prohibited language and keywords using Vue. You can read more on how this was built [here](https://pusher.com/tutorials/)
 
 ![Sample working example](./screenshots/mod.gif)
 
