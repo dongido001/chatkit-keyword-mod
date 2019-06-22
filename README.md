@@ -22,7 +22,7 @@ Create your env file:
 ```
 cp .env.example .env
 ```
-Update the keys in the file with your [Chatkit keys](https://pusher.com/chatkit)
+Update the keys in the file with your [Chatkit keys](https://pusher.com/tutorials/monitor-chat-rooms-vue)
 ### Client - Vue
 
 ```
